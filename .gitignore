@@ -1,0 +1,12 @@
+# IDE
+.idea
+.vscode
+
+# Go build cache (local override)
+.gocache/
+
+# Temporary artifacts
+testfile
+
+# EXE
+*.exe
